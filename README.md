@@ -1,2 +1,3 @@
 # COUNTER
-Counter project JavaScript practice
+
+Counter project JavaScript practice.
